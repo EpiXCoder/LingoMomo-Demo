@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LingoMomo-Demo/static/css/main.e4365886.css",
+    "main.js": "/LingoMomo-Demo/static/js/main.103dc963.js",
+    "static/media/lingo-logo.png": "/LingoMomo-Demo/static/media/lingo-logo.5aa28d94cd1955cfbca6.png",
+    "index.html": "/LingoMomo-Demo/index.html",
+    "main.e4365886.css.map": "/LingoMomo-Demo/static/css/main.e4365886.css.map",
+    "main.103dc963.js.map": "/LingoMomo-Demo/static/js/main.103dc963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4365886.css",
+    "static/js/main.103dc963.js"
+  ]
+}
